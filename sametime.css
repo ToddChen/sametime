@@ -1,0 +1,39 @@
+﻿.sametime {
+	cursor: pointer;
+}
+.active{
+	background-image: url(icon/ST_Awns_Active.png);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	padding-left: 15px;
+	font-weight: bold;
+	color: #006600;
+}
+.away{
+	background-image: url(icon/ST_Awns_Away.png);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	padding-left: 15px;
+	color: #006600;
+}
+.disturb{
+	background-image: url(icon/ST_Awns_DND.png);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	padding-left: 15px;
+	color: #000000;
+}
+.meeting{
+	background-image: url(icon/ST_Awns_InAMtng.png);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	padding-left: 15px;
+	color: #006600;
+}
+.offline{
+	background-image: url(icon/ST_Awns_Offline.png);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	padding-left: 15px;
+	color: #000000;
+}
