@@ -46,7 +46,6 @@ function jsonpCallback(data) {
 		el.addClass('meeting');
 		break;
 	default: 
-		//statusSpan.addClass('offline');
 	}
 	
 };  
